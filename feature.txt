@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 lol;
-
-=======
-kek
->>>>>>> refs/remotes/origin/Feature
+kek;
+fgfdgmdflgmsdf;
