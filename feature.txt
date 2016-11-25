@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 kek
 lol;
+=======
+lol;
+kek;
+fgfdgmdflgmsdf;
+>>>>>>> refs/remotes/origin/master
